@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello ! I am a second-year PhD candidate at the Aix-Marseille School of Economics (AMSE). I am broadly interested in how large-scale policies affect firms and markets in lower- and middle-income countries (LMICs).
+Hello ! I am a second-year PhD candidate at the Aix-Marseille School of Economics (AMSE). I am broadly interested in how large-scale policies affect firms and input markets in lower- and middle-income countries (LMICs).
 
 My current research look at the effects of industrial policies on fertiliser markets in Sub-Saharan Africa.
+
+I also work on the labour market changes brought out by redistributive utility subsidies.
