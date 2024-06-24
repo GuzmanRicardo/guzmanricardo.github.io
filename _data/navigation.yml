@@ -1,11 +1,11 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/  
+    url: /publications/  
 
   - title: "Teaching"
-    url: /teaching/
+    url: /talks/
 
 - title: "Resources"
-    url: /resources/
+    url: /cv/
     
