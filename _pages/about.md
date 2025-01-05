@@ -13,9 +13,6 @@ redirect_from:
 
 <p> I am broadly interested in <strong> economic development </strong> and <strong> spatial economics </strong>, with a focus on markets for agricultural technologies. In my dissertation, I study supply-side policies in the market for agricultural technologies and their implications on technology adoption and agricultural productivity. My projects routinely draw from tools in spatial economics and combine geo-spatial and survey data. </p>
 
-tudies worker mobility between formal and informal sector jobs in the garment industry in Bangladesh.
-More broadly, my research focuses on topics at the intersection of labor, health, and development economics. I study how people and households make decisions over work and health in the face of market frictions.
-
 <br>
 
 ## Work In Progress
