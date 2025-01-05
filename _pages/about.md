@@ -9,11 +9,16 @@ redirect_from:
 
 <div class="profile-text">
 
-<p> I am a PhD candidate at the Aix-Marseille School of Economics (<a href="https://www.amse-aixmarseille.fr/en"> AMSE </a>).  </p>
+<p> I am a PhD candidate at the Aix-Marseille School of Economics (<a>href="https://www.amse-aixmarseille.fr/en">AMSE</a>).  </p>
 
-<p> I am interested in <strong> economic development </strong> and <strong> agriculture  </strong> , with a focus on markets for agricultural technologies. In my dissertation, I study how supply-side policies affect the adoption of agricultural technologies (fertilisers, seeds) in low-income countries. My projects routinely combine spatial data with tools from economic geography. </p>
+<p> I am broadly interested in <strong> economic development </strong> and <strong> spatial economics </strong>, with a focus on markets for agricultural technologies. In my dissertation, I study supply-side policies in the market for agricultural technologies and their implications on technology adoption and agricultural productivity. My projects routinely draw from tools in spatial economics and combine geo-spatial and survey data. </p>
 
-## Research In Progress
+tudies worker mobility between formal and informal sector jobs in the garment industry in Bangladesh.
+More broadly, my research focuses on topics at the intersection of labor, health, and development economics. I study how people and households make decisions over work and health in the face of market frictions.
+
+<br>
+
+## Work In Progress
 
 1. ** Innovation in Agricultural Technology and Rural Development** (Job Market Paper)
 
@@ -34,12 +39,14 @@ from crop sales and crop output per hectare of land.</p>
 </div>
 </details>
 
+<br>
+
 2. ** Local Manufacturing of Productive Inputs and Technology Adoption: Evidence from Nigeria” ** with Matteo Ruzzante (Northwestern University)
 
 <details>
 <summary>Abstract</summary> 
 <div class="abstract-content">
-  <p> Markets for labor-saving agricultural inputs in the developing world are often concentrated and geographically segmented, resulting in large gaps between world and farm-gate prices for these inputs. How do changes in the structure of local input markets affect smallholder farms? We shed light on this question by studying a unique industrial policy in Nigeria that led to the construction of inorganic fertilizer blending plants and expanded the
+<p> Markets for labor-saving agricultural inputs in the developing world are often concentrated and geographically segmented, resulting in large gaps between world and farm-gate prices for these inputs. How do changes in the structure of local input markets affect smallholder farms? We shed light on this question by studying a unique industrial policy in Nigeria that led to the construction of inorganic fertilizer blending plants and expanded the
 productive capacity of the sector. We combine household, agro-dealer, and village-level surveys with geocoded
 information on the universe of fertilizer blenders to evaluate the policy’s effects on fertilizer retail prices, adoption
 rates, and crop yields. To address the endogenous placement of blending plants, we leverage temporal variation in
@@ -49,5 +56,6 @@ accruing more to larger farms that produce cash crops.</p>
 </div>
 </details>
 
+<br>
 
 I am always happy to meet researchers and practitioners working in development and agriculture. Feel to get in touch at: ricardo.guzman@univ-amu.fr
