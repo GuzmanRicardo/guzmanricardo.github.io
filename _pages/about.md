@@ -11,19 +11,20 @@ redirect_from:
 
 <p>I am a third-year PhD candidate at the Aix-Marseille School of Economics (<a href="https://www.amse-aixmarseille.fr/en">AMSE</a>).</p>
 
-<p>I am broadly interested in <strong>economic development</strong> and <strong>spatial economics</strong>, with a focus on markets for agricultural technologies. In my dissertation, I study large-scale policies that expand the supply of agricultural technology and their implications on technology adoption and agricultural productivity. My projects routinely combine spatial and survey data.</p>
+<p>I am broadly interested in <strong>economic development</strong> and <strong>spatial economics</strong>, with a focus on markets for agricultural technologies. In my dissertation, I study large-scale policies that expand access to agricultural technologies and their implications on adoption and agricultural productivity. My projects routinely combine spatial and survey data.</p>
+
+</div>
 
 <br>
 
-# Work In Progress
+<strong>Work In Progress</strong>
 
-<br>
-
-1. ** Innovation in Agricultural Technology and Rural Development** (Job Market Paper)
+1. **Innovation in Agricultural Technology and Rural Development** (Job Market Paper)
 
 <details>
 <summary>Abstract</summary> 
 <div class="abstract-content">
+<br>
 <p>For developing countries, protecting the intellectual property (IP) of critical technology represents a clear economic tradeoff. On one hand, IP protection can induce the entry of new technologies and facilitate the transfer of
 technology from abroad. On the other hand, it can raise prices and distort input choices for firms downstream. I
 empirically evaluate this tradeoff between innovation and access in the context of a reform that introduced patent
@@ -40,11 +41,12 @@ from crop sales and crop output per hectare of land.</p>
 
 <br>
 
-2. ** Local Manufacturing of Productive Inputs and Technology Adoption: Evidence from Nigeria” ** with Matteo Ruzzante (Northwestern University)
+2. **Local Manufacturing of Productive Inputs and Technology Adoption: Evidence from Nigeria** with Matteo Ruzzante (Northwestern University)
 
 <details>
 <summary>Abstract</summary> 
 <div class="abstract-content">
+<br>
 <p> Markets for labor-saving agricultural inputs in the developing world are often concentrated and geographically segmented, resulting in large gaps between world and farm-gate prices for these inputs. How do changes in the structure of local input markets affect smallholder farms? We shed light on this question by studying a unique industrial policy in Nigeria that led to the construction of inorganic fertilizer blending plants and expanded the
 productive capacity of the sector. We combine household, agro-dealer, and village-level surveys with geocoded
 information on the universe of fertilizer blenders to evaluate the policy’s effects on fertilizer retail prices, adoption
