@@ -9,13 +9,15 @@ redirect_from:
 
 <div class="profile-text">
 
-<p>I am a PhD candidate at the Aix-Marseille School of Economics (<a href="https://www.amse-aixmarseille.fr/en">AMSE</a>).</p>
+<p>I am a third-year PhD candidate at the Aix-Marseille School of Economics (<a href="https://www.amse-aixmarseille.fr/en">AMSE</a>).</p>
 
 <p>I am broadly interested in <strong>economic development</strong> and <strong>spatial economics</strong>, with a focus on markets for agricultural technologies. In my dissertation, I study large-scale policies that expand the supply of agricultural technology and their implications on technology adoption and agricultural productivity. My projects routinely combine spatial and survey data.</p>
 
 <br>
 
 # Work In Progress
+
+<br>
 
 1. ** Innovation in Agricultural Technology and Rural Development** (Job Market Paper)
 
