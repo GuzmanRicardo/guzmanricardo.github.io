@@ -1,15 +1,19 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Roboto", sans-serif;
+  font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
   font-weight:400;
-  text-align: justify;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
   color:#222;
-  margin:0 0 20px;
+  margin:0 0 1px;
+}
+
+h2, h3, h4, h5, h6 {
+  color:#222;
+  margin:0 0 30px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -21,29 +25,27 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 28px;
-  font-weight: 450;
-  margin-bottom: 5px; /* Reduced from 20px to 10px */
+  font-size:28px;
+  font-weight: 500;
 }
 
 h2 {
   color:#393939;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 h3, h4, h5, h6 {
   color:#494949;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 a {
-  color: #39c;
-  font-weight: none;
-  text-decoration: underline;
+  color:#39c;
+  text-decoration:none;
 }
 
 a:hover {
-  color: #39c;
+  color:#069;
 }
 
 a small {
@@ -58,7 +60,7 @@ a:hover small {
 }
 
 .wrapper {
-  width: 850px;
+  width:860px;
   margin:0 auto;
 }
 
@@ -143,7 +145,7 @@ header ul a {
   font-size:11px;
   color:#999;
   display:block;
-  text-align:right;
+  text-align:center;
   padding-top:6px;
   height:34px;
 }
@@ -175,7 +177,7 @@ header ul a strong {
 section {
   width:500px;
   float:right;
-  padding-bottom:50px;
+  padding-bottom:30px;
 }
 
 small {
